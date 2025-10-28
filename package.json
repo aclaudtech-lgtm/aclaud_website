@@ -1,7 +1,0 @@
- {
-      "homepage": "https://aclaudtech-lgtm.github.io/aclaud_website",
-      "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
-      }
-    }
